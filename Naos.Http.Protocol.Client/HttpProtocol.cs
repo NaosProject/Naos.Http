@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="Class1.cs" company="Naos Project">
+// <copyright file="HttpProtocol.cs" company="Naos Project">
 //    Copyright (c) Naos Project 2019. All rights reserved.
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
@@ -7,9 +7,9 @@
 namespace Naos.Http.Protocol.Client
 {
     /// <summary>
-    /// TODO: Starting point for new project.
+    /// Protocols for the <see cref="Naos.Http.Domain"/> and/or <see cref="Naos.Service.Domain"/> operations.
     /// </summary>
-    public partial class Class1
+    public partial class HttpProtocol
     {
     }
 }
