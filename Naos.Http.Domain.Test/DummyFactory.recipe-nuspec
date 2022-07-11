@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>Naos.Http.Domain.Recipes.DummyFactory</id>
+    <id>Naos.Http.Recipes.DummyFactory</id>
     <description>A Dummy Factory for types in Naos.Http.Domain</description>
     <tags>dummyfactory dummy factory fakeiteasy autofixture snippet codeinclude utility shared recipe Http</tags>
     <dependencies>
